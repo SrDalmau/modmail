@@ -63,7 +63,7 @@ class ConfigManager:
         "thread_close_footer": "Si mandas otro mensaje se creará un nuevo ticket.",
         "thread_close_title": "Ticket Cerrado",
         "thread_close_response": "{closer.mention} ha cerrado el ticket.",
-        "thread_self_close_response": "Un mimbro del staff ha cerrado este ticket.",
+        "thread_self_close_response": "Un miembro del staff ha cerrado este ticket.",
         "thread_move_title": "Ticket movido",
         "thread_move_notify": False,
         "thread_move_notify_mods": False,
